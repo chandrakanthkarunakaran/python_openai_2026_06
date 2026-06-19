@@ -1,0 +1,10 @@
+openai>=1.30.0
+python-dotenv>=1.0.0
+jupyter
+notebook
+ipykernel
+streamlit
+gradio
+pillow
+gymnasium
+tiktoken

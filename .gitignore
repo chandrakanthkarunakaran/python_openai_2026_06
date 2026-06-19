@@ -1,0 +1,14 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+solutions/
+.DS_Store

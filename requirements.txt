@@ -3,8 +3,12 @@ python-dotenv>=1.0.0
 jupyter
 notebook
 ipykernel
+ipywidgets
 streamlit
 gradio
+flask
 pillow
 gymnasium
 tiktoken
+matplotlib
+numpy

@@ -1,0 +1,26 @@
+order_id,date,customer_name,city,product,category,quantity,unit_price_inr,gst_rate,discount_pct,sales_rep
+1001,2026-01-05,Ravi Kumar,Chennai,Laptop Stand,Electronics,2,1499.00,18,5,Anitha S
+1002,2026-01-07,Priya Menon,Bangalore,Wireless Mouse,Electronics,5,699.00,18,0,Karthik R
+1003,2026-01-10,Suresh Nair,Hyderabad,Office Chair,Furniture,1,8500.00,12,10,Lakshmi P
+1004,2026-01-12,Deepa Iyer,Chennai,USB Hub,Electronics,3,1299.00,18,0,Anitha S
+1005,2026-01-15,Ramesh Babu,Coimbatore,Desk Lamp,Lighting,4,549.00,12,5,Karthik R
+1006,2026-01-18,Kavya Reddy,Hyderabad,Mechanical Keyboard,Electronics,2,3499.00,18,10,Lakshmi P
+1007,2026-01-20,Arun Prakash,Chennai,Monitor Arm,Furniture,1,4200.00,12,0,Anitha S
+1008,2026-01-22,Nithya Krishnan,Bangalore,Webcam,Electronics,3,2199.00,18,5,Karthik R
+1009,2026-01-25,Vijay Shankar,Madurai,Headphones,Electronics,2,1899.00,18,0,Lakshmi P
+1010,2026-01-28,Shalini Mohan,Chennai,Notebook (A4),Stationery,10,120.00,5,0,Anitha S
+1011,2026-02-02,Manju Patel,Bangalore,External SSD,Electronics,1,6999.00,18,5,Karthik R
+1012,2026-02-05,Gopal Das,Hyderabad,Ergonomic Mouse Pad,Accessories,6,349.00,18,0,Lakshmi P
+1013,2026-02-08,Revathi Suresh,Chennai,Desk Organizer,Stationery,3,799.00,12,10,Anitha S
+1014,2026-02-10,Harish Kumar,Coimbatore,Laptop Bag,Accessories,2,1999.00,12,5,Karthik R
+1015,2026-02-14,Usha Rangan,Chennai,Wireless Keyboard,Electronics,1,2499.00,18,0,Anitha S
+1016,2026-02-17,Dinesh Raj,Bangalore,Smart LED Bulb,Lighting,8,299.00,12,0,Karthik R
+1017,2026-02-20,Pooja Varma,Hyderabad,Standing Desk,Furniture,1,18500.00,12,15,Lakshmi P
+1018,2026-02-22,Siva Kumar,Madurai,HDMI Cable,Accessories,4,399.00,18,0,Lakshmi P
+1019,2026-02-25,Aarthi Balan,Chennai,Power Strip,Electronics,3,849.00,18,5,Anitha S
+1020,2026-02-28,Murugan Raj,Coimbatore,Cooling Pad,Electronics,2,1149.00,18,0,Karthik R
+1021,2026-03-03,Brinda Nair,Bangalore,File Cabinet,Furniture,1,5500.00,12,10,Karthik R
+1022,2026-03-06,Vignesh S,Chennai,Pen Drive 64GB,Electronics,5,499.00,18,0,Anitha S
+1023,2026-03-10,Saranya M,Hyderabad,Ring Light,Lighting,2,2799.00,12,5,Lakshmi P
+1024,2026-03-12,Kiran Babu,Bangalore,Bluetooth Speaker,Electronics,1,3299.00,18,10,Karthik R
+1025,2026-03-15,Meenakshi P,Chennai,Whiteboard,Stationery,1,1800.00,12,0,Anitha S
